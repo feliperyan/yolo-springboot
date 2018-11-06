@@ -13,4 +13,12 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void rubbishTest2() {
+	}
+
+	@Test
+	public void rubbishTest3() {
+	}
+
 }

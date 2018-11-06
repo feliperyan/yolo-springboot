@@ -12,7 +12,8 @@ public class DemoApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-      return "Hello World!";
+        String css = "aloha";
+        return "<html><body><h1>Hello World!</h1></body></html>";
     }
 
     public static void main(String[] args) {
