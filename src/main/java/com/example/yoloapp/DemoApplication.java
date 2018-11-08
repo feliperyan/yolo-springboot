@@ -13,7 +13,7 @@ public class DemoApplication {
     @ResponseBody
     String home() {
         String css = "aloha";
-        return "<html><body><h1>Hello World!</h1></body></html>";
+        return "<html><body><h1>Second Try World!</h1></body></html>";
     }
 
     public static void main(String[] args) {
